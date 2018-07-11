@@ -1,0 +1,16 @@
+[submodule "libraries/hoedown/hoedown"]
+	path = libraries/hoedown/hoedown
+	url = https://github.com/hoedown/hoedown
+
+[submodule "libraries/sundown/sundown"]
+	path = libraries/sundown/sundown
+	url = https://github.com/vmg/sundown
+
+[submodule "libraries/hunspell/hunspell"]
+	path = libraries/hunspell/hunspell
+	url = https://github.com/hunspell/hunspell/
+
+[submodule "ghostwriter"]
+	path = ghostwriter
+	url = https://github.com/pazos/ghostwriter
+        branch = modular
